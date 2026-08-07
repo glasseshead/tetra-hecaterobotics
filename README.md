@@ -7,25 +7,37 @@ TETRA's files are now available to the public so that anyone who is starting out
 
 ## Specifications (TETRA V11)
 **Weight Class:** UK Antweight/US Fairyweight (150g/0.33lb)
+
 **Type:** Horizontal undercutter spinner
+
 **Drive:** 2WD brushed drive
+
 **Weapon:** Brushless motor
+
 **Weapon Configurations:**
 - N/A, in progress
 
 ## Specifications (TETRA V10)
 **Weight Class:** UK Antweight/US Fairyweight (150g/0.33lb)
+
 **Type:** Horizontal undercutter spinner
+
 **Drive:** 2WD brushed drive
+
 **Weapon:** Brushless motor
+
 **Weapon Configurations:**
 - N/A, version not used
 
 ## Specifications (TETRA V8/V9)
 **Weight Class:** UK Antweight/US Fairyweight (150g/0.33lb)
+
 **Type:** Horizontal undercutter spinner
+
 **Drive:** 2WD brushed drive
+
 **Weapon:** Brushless motor
+
 **Weapon Configurations:**
 - "Night": *Tri-tooth disc spinner*
 - "Snaggletooth": *Asymmetrical/reaper hybrid spinner*
@@ -33,8 +45,12 @@ TETRA's files are now available to the public so that anyone who is starting out
 
 ## Specifications (TETRA V7)
 **Weight Class:** UK Antweight/US Fairyweight (150g/0.33lb)
+
 **Type:** Horizontal undercutter spinner
+
 **Drive:** 2WD brushed drive
+
 **Weapon:** Brushless motor
+
 **Weapon Configuration:**
 - "Star": *Six-tooth disc spinner*
